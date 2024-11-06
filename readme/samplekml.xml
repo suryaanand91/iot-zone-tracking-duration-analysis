@@ -1,0 +1,35 @@
+<Placemark>
+    <name>My Point</name>
+    <description>This is a description of the point</description>
+    <Point>
+        <coordinates>-122.0822035425683,37.42228990140251,0</coordinates>
+    </Point>
+</Placemark>
+
+<Placemark>
+    <name>My Line</name>
+    <LineString>
+        <coordinates>
+          -122.084075,37.421569,0
+          -122.082203,37.422289,0
+        </coordinates>
+    </LineString>
+</Placemark>
+
+<Placemark>
+    <name>My Polygon</name>
+    <Polygon>
+        <outerBoundaryIs>
+            <LinearRing>
+                <coordinates>
+                    -122.084075,37.422003,0
+                    -122.084075,37.422525,0
+                    -122.082203,37.422525,0
+                    -122.082203,37.422003,0
+                    -122.084075,37.422003,0
+                </coordinates>
+            </LinearRing>
+        </outerBoundaryIs>
+    </Polygon>
+</Placemark>
+

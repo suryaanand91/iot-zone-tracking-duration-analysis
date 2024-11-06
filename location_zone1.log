@@ -1,0 +1,216 @@
+2024-10-19 16:59:24,942 - INFO - ------------------------------------------------------------------------
+2024-10-19 16:59:24,947 - ERROR - Password is required for key /Users/suryaanand/.ssh/id_ed25519
+2024-10-19 16:59:27,633 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2024-10-19 16:59:28,239 - INFO - Authentication (publickey) successful!
+2024-10-19 16:59:28,247 - INFO - Mongo SSH connection is established successfully
+2024-10-19 16:59:29,241 - INFO - Executed Mongo Aggregatio query successfully
+2024-10-19 16:59:29,280 - INFO - perform_zone_device_track_duration completed
+2024-10-19 16:59:29,281 - INFO - Data written to /Users/suryaanand/Documents/python/diy/readKML/csv/device_name_20241019_165929.csv
+2024-10-19 17:02:40,269 - INFO - ------------------------------------------------------------------------
+2024-10-19 17:02:40,275 - ERROR - Password is required for key /Users/suryaanand/.ssh/id_ed25519
+2024-10-19 17:02:41,126 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2024-10-19 17:02:41,602 - INFO - Authentication (publickey) successful!
+2024-10-19 17:02:41,611 - INFO - Mongo SSH connection is established successfully
+2024-10-19 17:02:42,630 - INFO - Executed Mongo Aggregatio query successfully
+2024-10-19 17:02:42,676 - INFO - perform_zone_device_track_duration completed
+2024-10-19 17:02:42,677 - INFO - Data written to /Users/suryaanand/Documents/python/diy/readKML/csv/device_name_20241019_170242.csv
+2024-10-19 17:03:05,981 - INFO - ------------------------------------------------------------------------
+2024-10-19 17:03:05,988 - ERROR - Password is required for key /Users/suryaanand/.ssh/id_ed25519
+2024-10-19 17:03:06,824 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2024-10-19 17:03:07,306 - INFO - Authentication (publickey) successful!
+2024-10-19 17:03:07,316 - INFO - Mongo SSH connection is established successfully
+2024-10-19 17:03:08,368 - INFO - Executed Mongo Aggregatio query successfully
+2024-10-19 17:03:08,428 - INFO - perform_zone_device_track_duration completed
+2024-10-19 17:03:08,428 - INFO - Data written to /Users/suryaanand/Documents/python/diy/readKML/csv/device_name_20241019_170308.csv
+2024-10-19 17:04:21,832 - INFO - ------------------------------------------------------------------------
+2024-10-19 17:04:21,832 - INFO - Execution Started on <built-in method strftime of datetime.datetime object at 0x1044aa040> 
+2024-10-19 17:04:21,837 - ERROR - Password is required for key /Users/suryaanand/.ssh/id_ed25519
+2024-10-19 17:04:22,695 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2024-10-19 17:04:23,146 - INFO - Authentication (publickey) successful!
+2024-10-19 17:04:23,156 - INFO - Mongo SSH connection is established successfully
+2024-10-19 17:04:24,120 - INFO - Executed Mongo Aggregatio query successfully
+2024-10-19 17:04:24,170 - INFO - perform_zone_device_track_duration completed
+2024-10-19 17:04:24,171 - INFO - Data written to /Users/suryaanand/Documents/python/diy/readKML/csv/device_name_20241019_170424.csv
+2024-10-19 17:05:14,643 - INFO - ------------------------------------------------------------------------
+2024-10-19 17:05:14,643 - INFO - Execution Started on 19/10/2024, 15:05:14 
+2024-10-19 17:05:14,659 - ERROR - Password is required for key /Users/suryaanand/.ssh/id_ed25519
+2024-10-19 17:05:15,526 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2024-10-19 17:05:15,984 - INFO - Authentication (publickey) successful!
+2024-10-19 17:05:15,994 - INFO - Mongo SSH connection is established successfully
+2024-10-19 17:05:16,932 - INFO - Executed Mongo Aggregatio query successfully
+2024-10-19 17:05:16,981 - INFO - perform_zone_device_track_duration completed
+2024-10-19 17:05:16,981 - INFO - Data written to /Users/suryaanand/Documents/python/diy/readKML/csv/device_name_20241019_170516.csv
+2024-10-19 17:08:06,901 - INFO - ------------------------Execution Started on 19/10/2024, 15:08:06--------------------------
+2024-10-19 17:08:06,906 - ERROR - Password is required for key /Users/suryaanand/.ssh/id_ed25519
+2024-10-19 17:08:07,765 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2024-10-19 17:08:08,306 - INFO - Authentication (publickey) successful!
+2024-10-19 17:08:08,315 - INFO - Mongo SSH connection is established successfully
+2024-10-19 17:08:09,282 - INFO - Executed Mongo Aggregatio query successfully
+2024-10-19 17:08:09,332 - INFO - perform_zone_device_track_duration completed
+2024-10-19 17:08:09,333 - INFO - Data written to /Users/suryaanand/Documents/python/diy/readKML/csv/device_name_20241019_170809.csv
+2024-10-19 17:12:39,648 - INFO - ------------------------Execution Started on 19/10/2024, 15:12:39--------------------------
+2024-10-19 17:12:39,664 - ERROR - Password is required for key /Users/suryaanand/.ssh/id_ed25519
+2024-10-19 17:12:40,520 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2024-10-19 17:12:41,001 - INFO - Authentication (publickey) successful!
+2024-10-19 17:12:41,009 - INFO - Mongo SSH connection is established successfully
+2024-10-19 17:12:41,947 - INFO - Executed Mongo Aggregatio query successfully
+2024-10-19 17:12:41,994 - INFO - perform_zone_device_track_duration completed
+2024-10-19 17:12:41,994 - INFO - Data written to /Users/suryaanand/Documents/python/diy/readKML/csv/device_name_20241019_171241.csv
+2024-10-19 17:13:38,873 - INFO - ------------------------Execution Started on 19/10/2024, 15:13:38--------------------------
+2024-10-19 17:13:38,878 - ERROR - Password is required for key /Users/suryaanand/.ssh/id_ed25519
+2024-10-19 17:13:39,724 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2024-10-19 17:13:40,190 - INFO - Authentication (publickey) successful!
+2024-10-19 17:13:40,201 - INFO - Mongo SSH connection is established successfully
+2024-10-19 17:13:41,131 - INFO - Executed Mongo Aggregatio query successfully
+2024-10-19 17:13:41,180 - INFO - perform_zone_device_track_duration completed
+2024-10-19 17:13:41,181 - INFO - Data written to /Users/suryaanand/Documents/python/diy/readKML/csv/device_name_20241019_171341.csv
+2024-10-19 17:14:00,451 - INFO - ------------------------Execution Started on 19/10/2024, 15:14:00--------------------------
+2024-10-19 17:14:00,454 - ERROR - Password is required for key /Users/suryaanand/.ssh/id_ed25519
+2024-10-19 17:14:01,299 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2024-10-19 17:14:01,767 - INFO - Authentication (publickey) successful!
+2024-10-19 17:14:01,776 - INFO - Mongo SSH connection is established successfully
+2024-10-19 17:14:02,686 - INFO - Executed Mongo Aggregatio query successfully
+2024-10-19 17:14:02,735 - INFO - perform_zone_device_track_duration completed
+2024-10-19 17:14:02,735 - INFO - Data written to /Users/suryaanand/Documents/python/diy/readKML/csv/device_name_20241019_171402.csv
+2024-10-19 17:14:02,799 - INFO - ------------------------Execution ended--------------------------
+2024-10-19 17:15:05,739 - INFO - ------------------------Execution Started on 19/10/2024, 15:15:05--------------------------
+2024-10-19 17:15:05,742 - ERROR - Password is required for key /Users/suryaanand/.ssh/id_ed25519
+2024-10-19 17:15:06,602 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2024-10-19 17:15:07,070 - INFO - Authentication (publickey) successful!
+2024-10-19 17:15:07,077 - INFO - Mongo SSH connection is established successfully
+2024-10-19 17:15:07,997 - INFO - Executed Mongo Aggregatio query successfully
+2024-10-19 17:15:08,047 - INFO - perform_zone_device_track_duration completed
+2024-10-19 17:15:08,048 - INFO - Data written to /Users/suryaanand/Documents/python/diy/readKML/csv/device_name_20241019_171508.csv
+2024-10-19 17:15:08,108 - INFO - -------------------------------------Execution ended---------------------------------------
+2024-10-19 17:16:04,274 - INFO - -------------------------------------Execution Startrd---------------------------------------
+2024-10-19 17:16:04,279 - ERROR - Password is required for key /Users/suryaanand/.ssh/id_ed25519
+2024-10-19 17:16:05,138 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2024-10-19 17:16:05,580 - INFO - Authentication (publickey) successful!
+2024-10-19 17:16:05,588 - INFO - Mongo SSH connection is established successfully
+2024-10-19 17:16:06,581 - INFO - Executed Mongo Aggregatio query successfully
+2024-10-19 17:16:06,629 - INFO - perform_zone_device_track_duration completed
+2024-10-19 17:16:06,629 - INFO - Data written to /Users/suryaanand/Documents/python/diy/readKML/csv/device_name_20241019_171606.csv
+2024-10-19 17:16:06,729 - INFO - -------------------------------------Execution ended---------------------------------------
+2024-10-19 17:39:07,638 - INFO - -------------------------------------Execution Started---------------------------------------
+2024-10-19 17:39:07,642 - ERROR - Password is required for key /Users/suryaanand/.ssh/id_ed25519
+2024-10-19 17:39:08,517 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2024-10-19 17:39:09,022 - INFO - Authentication (publickey) successful!
+2024-10-19 17:39:09,033 - INFO - Mongo SSH connection is established successfully
+2024-10-19 17:39:10,073 - INFO - Executed Mongo Aggregatio query successfully
+2024-10-19 17:39:10,121 - INFO - perform_zone_device_track_duration completed
+2024-10-19 17:39:10,121 - INFO - Data written to /Users/suryaanand/Documents/python/diy/readKML/csv/device_name_20241019_173910.csv
+2024-10-19 17:39:10,154 - INFO - -------------------------------------Execution ended---------------------------------------
+2024-10-19 17:53:58,463 - INFO - -------------------------------------Execution Started---------------------------------------
+2024-10-19 17:53:58,480 - ERROR - Password is required for key /Users/suryaanand/.ssh/id_ed25519
+2024-10-19 17:53:59,343 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2024-10-19 17:53:59,821 - INFO - Authentication (publickey) successful!
+2024-10-19 17:53:59,832 - INFO - Mongo SSH connection is established successfully
+2024-10-19 17:54:00,810 - INFO - Executed Mongo Aggregatio query successfully
+2024-10-19 17:54:00,860 - INFO - perform_zone_device_track_duration completed
+2024-10-19 17:54:00,861 - INFO - Data written to /Users/suryaanand/Documents/python/diy/readKML/csv/device_name_20241019_175400.csv
+2024-10-19 17:54:00,889 - INFO - -------------------------------------Execution ended---------------------------------------
+2024-10-19 17:57:46,517 - INFO - -------------------------------------Execution Started---------------------------------------
+2024-10-19 17:57:46,520 - ERROR - Password is required for key /Users/suryaanand/.ssh/id_ed25519
+2024-10-19 17:57:47,382 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2024-10-19 17:57:47,867 - INFO - Authentication (publickey) successful!
+2024-10-19 17:57:47,877 - INFO - Mongo SSH connection is established successfully
+2024-10-19 17:57:48,841 - INFO - Executed Mongo Aggregatio query successfully
+2024-10-19 17:57:48,889 - INFO - perform_zone_device_track_duration completed
+2024-10-19 17:57:48,890 - INFO - Data written to /Users/suryaanand/Documents/python/diy/readKML/csv/device_name_20241019_175748.csv
+2024-10-19 17:57:48,920 - INFO - -------------------------------------Execution ended---------------------------------------
+2024-11-05 23:34:56,434 - INFO - -------------------------------------Execution Started---------------------------------------
+2024-11-05 23:34:56,444 - ERROR - Password is required for key /Users/suryaanand/.ssh/id_ed25519
+2024-11-05 23:34:57,320 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2024-11-05 23:34:57,885 - INFO - Authentication (publickey) successful!
+2024-11-05 23:34:57,895 - INFO - Mongo SSH connection is established successfully
+2024-11-05 23:34:58,844 - INFO - Executed Mongo Aggregatio query successfully
+2024-11-05 23:34:58,858 - INFO - perform_zone_device_track_duration completed
+2024-11-05 23:34:58,905 - INFO - -------------------------------------Execution ended---------------------------------------
+2024-11-05 23:35:26,651 - INFO - -------------------------------------Execution Started---------------------------------------
+2024-11-05 23:35:26,655 - ERROR - Password is required for key /Users/suryaanand/.ssh/id_ed25519
+2024-11-05 23:35:27,502 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2024-11-05 23:35:27,920 - INFO - Authentication (publickey) successful!
+2024-11-05 23:35:27,930 - INFO - Mongo SSH connection is established successfully
+2024-11-05 23:35:28,788 - INFO - Executed Mongo Aggregatio query successfully
+2024-11-05 23:35:28,802 - INFO - perform_zone_device_track_duration completed
+2024-11-05 23:35:28,802 - ERROR - Failed to upload CSV to SFTP server: getaddrinfo() argument 1 must be string or None
+2024-11-05 23:35:28,842 - INFO - -------------------------------------Execution ended---------------------------------------
+2024-11-05 23:58:15,523 - INFO - -------------------------------------Execution Started---------------------------------------
+2024-11-05 23:58:15,533 - ERROR - Password is required for key /Users/suryaanand/.ssh/id_ed25519
+2024-11-05 23:58:16,392 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2024-11-05 23:58:16,824 - INFO - Authentication (publickey) successful!
+2024-11-05 23:58:16,830 - INFO - Mongo SSH connection is established successfully
+2024-11-05 23:58:17,548 - INFO - Executed Mongo Aggregatio query successfully
+2024-11-05 23:58:17,560 - INFO - perform_zone_device_track_duration completed
+2024-11-05 23:58:17,560 - ERROR - Failed to upload CSV to SFTP server: getaddrinfo() argument 1 must be string or None
+2024-11-05 23:58:17,564 - INFO - -------------------------------------Execution ended---------------------------------------
+2024-11-06 00:01:07,273 - INFO - -------------------------------------Execution Started---------------------------------------
+2024-11-06 00:01:07,278 - ERROR - Password is required for key /Users/suryaanand/.ssh/id_ed25519
+2024-11-06 00:01:08,218 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2024-11-06 00:01:08,657 - INFO - Authentication (publickey) successful!
+2024-11-06 00:01:08,663 - INFO - Mongo SSH connection is established successfully
+2024-11-06 00:01:09,562 - INFO - Executed Mongo Aggregatio query successfully
+2024-11-06 00:01:09,576 - INFO - perform_zone_device_track_duration completed
+2024-11-06 00:01:09,576 - ERROR - Failed to upload CSV to SFTP server: getaddrinfo() argument 1 must be string or None
+2024-11-06 00:01:09,677 - INFO - -------------------------------------Execution ended---------------------------------------
+2024-11-06 00:01:39,953 - INFO - -------------------------------------Execution Started---------------------------------------
+2024-11-06 00:01:39,958 - ERROR - Password is required for key /Users/suryaanand/.ssh/id_ed25519
+2024-11-06 00:01:40,827 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2024-11-06 00:01:41,371 - INFO - Authentication (publickey) successful!
+2024-11-06 00:01:41,381 - INFO - Mongo SSH connection is established successfully
+2024-11-06 00:01:42,147 - INFO - Executed Mongo Aggregatio query successfully
+2024-11-06 00:01:42,156 - INFO - perform_zone_device_track_duration completed
+2024-11-06 00:01:42,157 - ERROR - Failed to upload CSV to SFTP server: getaddrinfo() argument 1 must be string or None
+2024-11-06 00:01:42,200 - INFO - -------------------------------------Execution ended---------------------------------------
+2024-11-06 00:02:22,536 - INFO - -------------------------------------Execution Started---------------------------------------
+2024-11-06 00:02:22,541 - ERROR - Password is required for key /Users/suryaanand/.ssh/id_ed25519
+2024-11-06 00:02:23,408 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2024-11-06 00:02:23,879 - INFO - Authentication (publickey) successful!
+2024-11-06 00:02:23,884 - INFO - Mongo SSH connection is established successfully
+2024-11-06 00:02:24,666 - INFO - Executed Mongo Aggregatio query successfully
+2024-11-06 00:02:24,680 - INFO - perform_zone_device_track_duration completed
+2024-11-06 00:02:24,773 - INFO - Connected (version 2.0, client OpenSSH_8.4p1)
+2024-11-06 00:02:25,053 - INFO - Authentication (password) successful!
+2024-11-06 00:02:25,376 - INFO - [chan 0] Opened sftp connection (server version 3)
+2024-11-06 00:02:25,381 - INFO - Data successfully written to /upload/GeoFence/output/device_name_20241106_000224.csv on the SFTP server.
+2024-11-06 00:02:25,381 - INFO - [chan 0] sftp session closed.
+2024-11-06 00:02:25,416 - INFO - -------------------------------------Execution ended---------------------------------------
+2024-11-06 00:11:30,498 - INFO - -------------------------------------Execution Started---------------------------------------
+2024-11-06 00:11:30,503 - ERROR - Password is required for key /Users/suryaanand/.ssh/id_ed25519
+2024-11-06 00:11:31,388 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2024-11-06 00:11:31,930 - INFO - Authentication (publickey) successful!
+2024-11-06 00:11:31,936 - INFO - Mongo SSH connection is established successfully
+2024-11-06 00:11:32,686 - INFO - Executed Mongo Aggregatio query successfully
+2024-11-06 00:11:32,699 - INFO - perform_zone_device_track_duration completed
+2024-11-06 00:11:32,787 - INFO - Connected (version 2.0, client OpenSSH_8.4p1)
+2024-11-06 00:11:33,153 - INFO - Authentication (password) successful!
+2024-11-06 00:11:33,482 - INFO - [chan 0] Opened sftp connection (server version 3)
+2024-11-06 00:11:33,485 - INFO - Data successfully written to /upload/GeoFence/output/device_name_20241106_001132.csv on the SFTP server.
+2024-11-06 00:11:33,486 - INFO - [chan 0] sftp session closed.
+2024-11-06 00:11:33,565 - INFO - -------------------------------------Execution ended---------------------------------------
+2024-11-06 00:13:48,252 - INFO - -------------------------------------Execution Started---------------------------------------
+2024-11-06 00:13:48,268 - ERROR - Password is required for key /Users/suryaanand/.ssh/id_ed25519
+2024-11-06 00:13:49,102 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2024-11-06 00:13:49,590 - INFO - Authentication (publickey) successful!
+2024-11-06 00:13:49,600 - INFO - Mongo SSH connection is established successfully
+2024-11-06 00:13:50,470 - INFO - Executed Mongo Aggregatio query successfully
+2024-11-06 00:13:50,484 - INFO - perform_zone_device_track_duration completed
+2024-11-06 00:13:50,573 - INFO - Connected (version 2.0, client OpenSSH_8.4p1)
+2024-11-06 00:13:50,860 - INFO - Authentication (password) successful!
+2024-11-06 00:13:51,193 - INFO - [chan 0] Opened sftp connection (server version 3)
+2024-11-06 00:13:51,197 - INFO - Data successfully written to /upload/GeoFence/output/device_name_20241106_001350.csv on the SFTP server.
+2024-11-06 00:13:51,197 - INFO - [chan 0] sftp session closed.
+2024-11-06 00:13:51,263 - INFO - -------------------------------------Execution ended---------------------------------------
+2024-11-06 11:09:54,797 - INFO - -------------------------------------Execution Started---------------------------------------
+2024-11-06 11:09:54,809 - ERROR - Password is required for key /Users/suryaanand/.ssh/id_ed25519
+2024-11-06 11:09:55,625 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2024-11-06 11:09:55,860 - INFO - Authentication (publickey) successful!
+2024-11-06 11:09:55,868 - INFO - Mongo SSH connection is established successfully
+2024-11-06 11:09:56,316 - INFO - Executed Mongo Aggregatio query successfully
+2024-11-06 11:09:56,325 - INFO - perform_zone_device_track_duration completed
+2024-11-06 11:09:56,375 - INFO - Connected (version 2.0, client OpenSSH_8.4p1)
+2024-11-06 11:09:56,731 - INFO - Authentication (password) successful!
+2024-11-06 11:09:57,062 - INFO - [chan 0] Opened sftp connection (server version 3)
+2024-11-06 11:09:57,069 - INFO - Data successfully written to /upload/GeoFence/output/device_name_20241106_110956.csv on the SFTP server.
+2024-11-06 11:09:57,069 - INFO - [chan 0] sftp session closed.
+2024-11-06 11:09:57,119 - INFO - -------------------------------------Execution ended---------------------------------------
